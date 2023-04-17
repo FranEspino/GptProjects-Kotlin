@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gpt Projects</string>
+    <string name="btnvoice_descripcion">Voice button</string>
+    <string name="btnvoice_text">Pres to talk</string>
+    <string name="tv_welcome">Hola, en que te puedo Ayudar?</string>
+    <string name="iv_chatgpt_description">Chat Gpt Image</string>
+</resources>
